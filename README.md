@@ -26,7 +26,7 @@ Now, open http://127.0.0.1:8000/ in your browser.
 ### 3. Pull from Docker Hub
 Instead of building manually, you can pull the prebuilt image:
 ```sh
-docker pull aj10721/assignment2:0.0.1.RELEASE
+docker pull aj410721/assignment2:0.0.1.RELEASE
 docker run -d -p 8000:8000 aj410721/assignment2:0.0.1.RELEASE
 ```
 your project will be live on http://127.0.0.1:8000/
